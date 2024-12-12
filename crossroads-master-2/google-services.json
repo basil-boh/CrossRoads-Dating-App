@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "350698148646",
+    "project_id": "crossroads-cb",
+    "storage_bucket": "crossroads-cb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:350698148646:android:1bfb7dedd7cd0a6e3a27e7",
+        "android_client_info": {
+          "package_name": "crossroads.orbital"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAh2uCPZw1JJlHNGgk6HtrTyZ9dIBFUZlc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
